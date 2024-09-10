@@ -4,7 +4,7 @@ This code allows you to fully finetune a model via Hugging Face using AWS's mult
 
 ## Requirements
 
-* Python 3.11 or higher
+* Python 3.11
 * Sagemaker
 * HF_TOKEN
 * Your AWS RoleName to access AWS's gpus
