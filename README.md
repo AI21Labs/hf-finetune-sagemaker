@@ -1,6 +1,6 @@
 # hf-finetune-sagemaker
 
-This code allows you to fully finetune a model using aws's multi nodes and fsdp configuration for big models.
+This code allows you to fully finetune a model via Hugging Face using aws's multi nodes and fsdp configuration for big models.
 
 ## Requirements
 
