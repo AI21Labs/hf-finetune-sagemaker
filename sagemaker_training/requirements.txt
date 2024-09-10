@@ -1,0 +1,8 @@
+accelerate >= 0.33.0
+torch == 2.1.0
+datasets >= 1.8.0
+trl == 0.9.6
+git+https://github.com/huggingface/alignment-handbook.git@27f7dbf00663dab66ad7334afb7a1311fa251f41
+git+https://github.com/HofitBata/transformers.git@b7bfebda2011569369824daa75b93975a62a959d
+mamba-ssm >= 1.2.0.post1
+causal-conv1d >= 1.2.0.post1
